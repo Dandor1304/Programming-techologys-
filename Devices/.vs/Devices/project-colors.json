@@ -5,6 +5,11 @@
       "ProjectGuid": "9e4e9b0a-62e0-4e76-8df4-361716222778",
       "DisplayName": "Devices",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 1

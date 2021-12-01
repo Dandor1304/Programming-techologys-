@@ -145,6 +145,7 @@
     <ClCompile Include="printer.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Devices.h" />
     <ClInclude Include="monitor.h" />
     <ClInclude Include="peripheral_devs.h" />
     <ClInclude Include="printer.h" />

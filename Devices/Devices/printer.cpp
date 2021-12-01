@@ -15,6 +15,6 @@ void printer::setformat(string format)
 
 void printer::show()
 {
-	cout << "Maker: " << maker << "Cost:" << cost << "Foramt: " << format << endl;
+	cout << "Maker: " << maker << " Cost:" << cost<< " " << " Foramt: " << format << endl;
 
 }

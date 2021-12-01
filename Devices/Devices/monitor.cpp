@@ -14,6 +14,6 @@ void monitor::setdiagonal(string diagonal)
 
 void monitor::show()
 {
-	cout << "Maker: " << maker << "Cost: " << cost << "Diagonal" << diagonal << endl;
+	cout << "Maker: " << maker << "Cost: " << cost<<" "<< "Diagonal: " << diagonal << endl;
 
 }
