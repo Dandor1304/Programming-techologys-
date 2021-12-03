@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1638456888 source:d:\4 лаба на кодблоксе\devices\main.cpp
+	"peripheral_devs.h"
+	"monitor.h"
+	"printer.h"
+	<iostream>
+
+1638457005 d:\4 лаба на кодблоксе\devices\peripheral_devs.h
+	<iostream>
+	<string.h>
+
+1638456205 d:\4 лаба на кодблоксе\devices\monitor.h
+	"peripheral_devs.h"
+	<iostream>
+	<string.h>
+
+1638536647 d:\4 лаба на кодблоксе\devices\printer.h
+	"peripheral_devs.h"
+	<iostream>
+
+1638536609 source:d:\4 лаба на кодблоксе\devices\monitor.cpp
+	<iostream>
+	"monitor.h"
+
+1638456629 source:d:\4 лаба на кодблоксе\devices\peripheral_devs.cpp
+	"peripheral_devs.h"
+	<iostream>
+	<string.h>
+
+1638536636 source:d:\4 лаба на кодблоксе\devices\printer.cpp
+	"printer.h"
+	<iostream>
+

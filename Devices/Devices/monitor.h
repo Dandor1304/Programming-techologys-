@@ -1,4 +1,5 @@
-#pragma once
+#ifndef MONITOR_H
+#define MONITOR_H
 #include "peripheral_devs.h"
 #include <iostream>
 #include <string.h>
@@ -14,4 +15,4 @@ protected:
 private:
     string diagonal;
 };
-
+#endif // MONITOR_H

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1638455446 source:d:\Лаб 4 наследование\programming-techologys-\devices\devices\monitor.cpp
+	"monitor.h"
+
+1638455470 d:\Лаб 4 наследование\programming-techologys-\devices\devices\monitor.h
+	"peripheral_devs.h"
+	<iostream>
+	<string.h>
+
+1638455338 d:\Лаб 4 наследование\programming-techologys-\devices\devices\peripheral_devs.h
+	<iostream>
+	<string.h>
+
+1638394004 source:d:\Лаб 4 наследование\programming-techologys-\devices\devices\peripheral_devs.cpp
+	"peripheral_devs.h"
+	<iostream>
+	<string.h>
+
+1638396062 source:d:\Лаб 4 наследование\programming-techologys-\devices\devices\printer.cpp
+	"printer.h"
+
+1638455504 d:\Лаб 4 наследование\programming-techologys-\devices\devices\printer.h
+	"peripheral_devs.h"
+

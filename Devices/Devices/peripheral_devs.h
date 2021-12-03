@@ -1,4 +1,5 @@
-#pragma once
+#ifndef PERIPHERAL_DEVS_H
+#define PERIPHERAL_DEVS_H
 #include <iostream>
 #include <string.h>
 using namespace std;
@@ -15,4 +16,5 @@ protected:
         string maker;
         int cost;
  };
+ #endif // PERIPHERAL_DEVS_H
 

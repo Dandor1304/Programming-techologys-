@@ -3,7 +3,6 @@
 #include "monitor.h"
 #include "printer.h"
 #include <iostream>
-#include "Devices.h"
 using namespace std;
 
 
@@ -65,12 +64,12 @@ int main()
             else
             {
                 cout << "Введите диагональ экрана" << endl;
-                
+
                 cin >> d;
                 ((monitor*)pd[num_dev - 1])->setdiagonal(d);
                 break;
             }
-            
+
         }
         for (int i = 0; i < 4; i++) // Вывод на экран отредактированных данных
         {
@@ -80,7 +79,7 @@ int main()
         {
             if (pd[i]->getcost() < min_cost)
                 min_cost = pd[i]->getcost();
-                
+
         }
         cout << "Минимальная цена устройства составляет " << min_cost;
 

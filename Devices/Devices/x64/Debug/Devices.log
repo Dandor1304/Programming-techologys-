@@ -1,2 +1,6 @@
 ﻿  Devices.cpp
+  monitor.cpp
+  peripheral_devs.cpp
+  printer.cpp
+  Создание кода...
   Devices.vcxproj -> D:\Лаб 4 наследование\Programming-techologys-\Devices\x64\Debug\Devices.exe
